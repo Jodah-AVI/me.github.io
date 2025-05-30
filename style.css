@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+main h1{
+    box-shadow: 1px 5px 5px 0px orange;
+}
+
+.link-text{
+    color: darkorange;
+}
